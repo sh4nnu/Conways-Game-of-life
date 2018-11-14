@@ -35,10 +35,41 @@ Just make it as a simple java project and run it as a java application
 
 ## Built With
 
-java version "1.8.0_191"
-Java(TM) SE Runtime Environment (build 1.8.0_191-b12)
-Java HotSpot(TM) 64-Bit Server VM (build 25.191-b12, mixed mode)
-netbeans 8.2
+* java version "1.8.0_191"
+* Java(TM) SE Runtime Environment (build 1.8.0_191-b12)
+* Java HotSpot(TM) 64-Bit Server VM (build 25.191-b12, mixed mode)
+* netbeans 8.2
+
+## Use cases
+The following are some of the most important usecases for the Conway's game of life:
+
+* Use-case1 =>
+             * 1. User puts in a pattern which is destructive
+             * 2. Presses start 
+             * 3. Watches life diminishing for next few frames
+             * 4. Life completely diminishes thereby killing the entire species
+             * 5. The palyer shuts down
+
+* Use-case2 => 
+             * 1. User puts in a pattern which keeps growing throughout
+             * 2. Presses start
+             * 3. Watches life grow
+             * 4. Suddenly growth stops since the cells hit the corner of the screen
+             * 5. A different pattern is formed which either disappears or becomes a recursive pattern.
+             * 6. The player shuts down the game.
+
+*Use-case3 => 
+             * 1. User puts in a pattern which keeps growing throughout
+             * 2. Presses start
+             * 3. Watches life grow
+             * 4. Suddenly growth stops since the cells hit the corner of the screen
+             * 5. He presses one of the keys and alters the state.
+             * 6. A different pattern is formed which either disappears or becomes a recursive pattern.
+             * 7. The player shuts down the game.
+
+
+
+
 
 
 ## Authors
