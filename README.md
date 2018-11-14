@@ -11,7 +11,7 @@ The Conway's Game of life is a zero player cellular automation game which means 
 The initial pattern constitutes the seed of the system. The first generation is created by applying the above rules simultaneously to every cell in the seed; births and deaths occur simultaneously, and the discrete moment at which this happens is sometimes called a tick. Each generation is a pure function of the preceding one. The rules continue to be applied repeatedly to create further generations. 
 ## Getting Started
 
-Firstly, fork the repository and clone it. Make sure to run it on netbeans 8.2. Add the project as an existing project in the open tab in the netbeans IDE.
+Firstly, fork the repository and clone it. Open the folder and rename the nandtotetris folde as src. Make sure to run it on netbeans 8.2. Add the project as an existing project in the open tab in the netbeans IDE.
 Once you get the code working, you are ready.
 
 ### Prerequisites
@@ -24,9 +24,6 @@ The following are a few prerequisites required.
 * Knowledge on Java
 ```
 
-## Deployment
-
-Just make it as a simple java project and run it as a java application
 
 ## Screenshots
 
