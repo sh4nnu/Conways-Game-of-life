@@ -72,7 +72,7 @@ There are more usecases to this game other than this. They have not been mention
 
 ## Authors
 
-* **Abhinav Duvvuri** - *Initial work* - [abhinavdv](https://github.com/abhinavdv)
+* **Abhinav Duvvuri** -  [abhinavdv](https://github.com/abhinavdv)
 
 
 ## License
