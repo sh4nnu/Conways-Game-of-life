@@ -58,7 +58,7 @@ The following are some of the most important usecases for the Conway's game of l
              * 5. A different pattern is formed which either disappears or becomes a recursive pattern.
              * 6. The player shuts down the game.
 
-*Use-case3 => 
+* Use-case3 => 
              * 1. User puts in a pattern which keeps growing throughout
              * 2. Presses start
              * 3. Watches life grow
