@@ -65,7 +65,7 @@ The following are some of the most important usecases for the Conway's game of l
              * 6. A different pattern is formed which either disappears or becomes a recursive pattern.
              * 7. The player shuts down the game.
 
-
+There are more usecases to this game other than this. They have not been mentioned here so that this page does not look cluttered.
 
 
 
