@@ -1,3 +1,4 @@
+//The following is the code for conways Game of life
 package gameoflife;
 import java.awt.Color;
 import javax.swing.JFrame;
